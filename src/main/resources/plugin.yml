@@ -1,0 +1,7 @@
+name: JoinLeaveMessage
+version: '${project.version}'
+main: me.favilances.joinleavemessage.JoinLeaveMessage
+api-version: 1.16
+authors: [ favilances ]
+description: It sends the logs of the players leaving the server and entering to the message section
+website: favilances.vercel.app
